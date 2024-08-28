@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Wilinton Gabriel 🖐️
 
+#
 ### Connect with me!
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilintongabrielss1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilinton-gabriel-40b591249/)
+
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF)](mailto:wilintongabrielss1@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=58A6FF&color:FFF)](https://www.linkedin.com/in/wilinton-gabriel-40b591249/)
 
 ### My Stack
 <div align="left">
@@ -22,4 +24,4 @@
   <img width="8" />
 </div>
 
-
+#
