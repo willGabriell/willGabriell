@@ -1,6 +1,5 @@
-### Olá! Eu sou o Wilinton Gabriel 🖐️
+## Olá! Eu sou o Wilinton Gabriel 🖐️
 
-#
 ### Connect with me!
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF)](mailto:wilintongabrielss1@gmail.com)
@@ -13,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodeJS logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
@@ -34,4 +34,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willGabriell&layout=compact&theme=github_dark)]()
 
 </div>
+
 
