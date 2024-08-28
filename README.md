@@ -4,11 +4,12 @@
 
 </div>
 
+<img align="right" height="180px" src="./src/01.gif" />
+
 ### Connect with me!
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF)](mailto:wilintongabrielss1@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=58A6FF&color:FFF)](https://www.linkedin.com/in/wilinton-gabriel-40b591249/)
-
 
 
 <div align="left">
