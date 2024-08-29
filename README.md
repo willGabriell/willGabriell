@@ -1,15 +1,12 @@
-<div align="center">
-  
 ## Olá! Eu sou o Wilinton Gabriel 🖐️
 
-</div>
 
-<img align="right" height="180px" src="./src/01.gif" />
+<img align="right" height="180px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 ### Connect with me!
 
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF)](mailto:wilintongabrielss1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=58A6FF&color:FFF)](https://www.linkedin.com/in/wilinton-gabriel-40b591249/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=626B71&color=black)](mailto:wilintongabrielss1@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=626B71&color:FFF)](https://www.linkedin.com/in/wilinton-gabriel-40b591249/)
 
 
 <div align="left">
