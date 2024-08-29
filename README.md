@@ -25,8 +25,7 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willGabriell&theme=github_dark&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=false&count_private=true&line_height=25&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willGabriell&layout=compact&theme=github_dark)]()
 
