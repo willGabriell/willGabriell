@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wilinton Gabriel 🖐️
 
 
-<img align="right" height="180px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
+<img align="right" height="180px" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 ### Connect with me!
 
