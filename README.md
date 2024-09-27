@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" title="Postgre SQL" />
 </div>
 
+### I'm Currently learning
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="postgresql logo" title="Postgre SQL" />
+
+
 #
 
 <div style="text-align: center;" align="center">
