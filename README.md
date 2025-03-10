@@ -23,7 +23,7 @@
 ### I'm Currently learning 
 <div align=""left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="25" alt="Typescript logo" title="Typescript" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="25" alt="Next JS logo" title="Next JS" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="25" alt="angular logo" title="Angular" />
 </div>
 
 #
