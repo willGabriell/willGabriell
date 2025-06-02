@@ -12,19 +12,17 @@
 <div align="left">
 
   ### My Stack
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React JS logo" title="React JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" title="Javascript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="25" alt="angular logo" title="Angular" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="25" alt="Typescript logo" title="Typescript" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="Tailwind logo" title="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo" title="Spring Framework" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" title="Postgre SQL" />
 </div>
 
-### I'm Currently learning 
+<!-- ### I'm Currently learning 
 <div align=""left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="25" alt="Typescript logo" title="Typescript" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="25" alt="angular logo" title="Angular" />
-</div>
+</div> -->
 
 #
 
